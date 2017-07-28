@@ -3,4 +3,4 @@
 Java server Faces - Car Sample
 
 
-![alt text](https://raw.githubusercontent.com/arnoldguti/JavaInterceptor/master/images/img.png)
+![alt text](https://raw.githubusercontent.com/arnoldguti/JavaInterceptor/master/images/img1.png)
